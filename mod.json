@@ -1,0 +1,10 @@
+{
+    "repo_url": "https://github.com/Chiv2-Community/StubbyMesser",
+    "name": "Stubby Messer",
+    "description": "\"Your sword looks a little short, if you know what I mean.\"\n\n Reduces the length of Messer by 33%",
+    "mod_type": "Shared",
+    "authors": [ "MochaPete" ],
+    "dependencies": [ ],
+    "tags": [ "Cosmetic" ]
+  }
+      
